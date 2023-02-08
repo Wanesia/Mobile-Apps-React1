@@ -1,0 +1,10 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.formatOnSave": false,
+
+"prettier.disableLanguages": [
+    "jsx",
+    "js"
+]
+    
+}
